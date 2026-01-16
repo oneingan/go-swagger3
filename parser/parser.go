@@ -1,14 +1,14 @@
 package parser
 
 import (
-	"github.com/parvez3019/go-swagger3/logger"
-	. "github.com/parvez3019/go-swagger3/openApi3Schema"
-	"github.com/parvez3019/go-swagger3/parser/apis"
-	"github.com/parvez3019/go-swagger3/parser/gomod"
-	"github.com/parvez3019/go-swagger3/parser/info"
-	"github.com/parvez3019/go-swagger3/parser/model"
-	"github.com/parvez3019/go-swagger3/parser/module"
-	"github.com/parvez3019/go-swagger3/parser/schema"
+	"github.com/oneingan/go-swagger3/logger"
+	. "github.com/oneingan/go-swagger3/openApi3Schema"
+	"github.com/oneingan/go-swagger3/parser/apis"
+	"github.com/oneingan/go-swagger3/parser/gomod"
+	"github.com/oneingan/go-swagger3/parser/info"
+	"github.com/oneingan/go-swagger3/parser/model"
+	"github.com/oneingan/go-swagger3/parser/module"
+	"github.com/oneingan/go-swagger3/parser/schema"
 	log "github.com/sirupsen/logrus"
 	"go/ast"
 )

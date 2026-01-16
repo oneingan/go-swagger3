@@ -1,7 +1,7 @@
 package main
 
 import (
-	appPkg "github.com/parvez3019/go-swagger3/app"
+	appPkg "github.com/oneingan/go-swagger3/app"
 	"log"
 	"os"
 )
