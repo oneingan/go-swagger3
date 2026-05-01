@@ -1,8 +1,8 @@
 package operations
 
 import (
-	oas "github.com/parvez3019/go-swagger3/openApi3Schema"
-	"github.com/parvez3019/go-swagger3/parser/utils"
+	oas "github.com/oneingan/go-swagger3/openApi3Schema"
+	"github.com/oneingan/go-swagger3/parser/utils"
 	"strings"
 )
 
